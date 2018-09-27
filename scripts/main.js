@@ -51,25 +51,25 @@ $(function(){
      $("#te").css("font-family","'UnifrakturCook', cursive"); 
   });
   $("#size11").click(function(){
-    $("#te").css("font-size","11pt");
+    $("#te").css("font-size","11px");
   });
   $("#size12").click(function(){
-    $("#te").css("font-size","12pt");
+    $("#te").css("font-size","12px");
   });
   $("#size13").click(function(){
-    $("#te").css("font-size","13pt");
+    $("#te").css("font-size","13px");
   });
   $("#size14").click(function(){
-    $("#te").css("font-size","14pt");
+    $("#te").css("font-size","14px");
   });
   $("#size15").click(function(){
-    $("#te").css("font-size","15pt");
+    $("#te").css("font-size","15px");
   });
   $("#size16").click(function(){
-    $("#te").css("font-size","16pt");
+    $("#te").css("font-size","16px");
   });
   $("#size17").click(function(){
-    $("#te").css("font-size","17pt");
+    $("#te").css("font-size","17px");
   });
   $("#normal").click(function(){
     $("#te").css("font-weight","normal");
