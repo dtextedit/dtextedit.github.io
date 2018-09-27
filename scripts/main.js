@@ -143,6 +143,7 @@ $(function(){
           var fstyle = $("#te").css("font-style");
           var color = $("#te").css("color");
           var align = $("#te").css("text-align");
+          var size = $("#te").css("font-size");
           $.cookie('editor', text1, { expires : 7 });
           $.cookie('background', background, { expires : 7 });
           $.cookie('font', font, { expires : 7 });
@@ -150,6 +151,7 @@ $(function(){
           $.cookie('fstyle', fstyle, { expires : 7 });
           $.cookie('color', color, { expires : 7 });
           $.cookie('align', align, { expires : 7 });
+          $.cookie('size', size, { expires : 7 });
       });
       checkCookieValues();
   });
@@ -162,6 +164,7 @@ $(function(){
       $("#te").css("font-style", $.cookie('fstyle'));
       $("#te").css("color", $.cookie('color'));
       $("#te").css("text-align", $.cookie('align'));
+      $("#te").css("font-size", $.cookie('size'));
     }
   }
 });
