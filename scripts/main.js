@@ -51,6 +51,24 @@ $(function(){
   $(".font-aaaq").click(function(){
      te.css("font-family","'UnifrakturCook', cursive"); 
   });
+  $(".font-aaar").click(function(){
+    te.css("font-family","'UnifrakturMaguntia', cursive");
+  });
+  $(".font-aaas").click(function(){
+    te.css("font-family","'Underdog', cursive");
+  });
+  $(".font-aaat").click(function(){
+    te.css("font-family","'EB Garamond', serif");
+  });
+  $(".font-aaau").click(function(){
+    te.css("font-family","'Eagle Lake', cursive");
+  });
+  $(".font-aaav").click(function(){
+    te.css("font-family","'Dynalight', cursive");
+  });
+  $(".font-aaaw").click(function(){
+    te.css("font-family","'Goudy Bookletter 1911', serif");
+  });
   $("#size11").click(function(){
     te.css("font-size","11px");
   });
