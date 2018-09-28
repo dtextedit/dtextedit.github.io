@@ -92,6 +92,9 @@ $(function(){
   $("#center").click(function(){
     te.css("text-align","center");
   });
+  $("#white").click(function(){
+    te.css("color","white");
+  });
   $("#black").click(function(){
     te.css("color","black");
   });
@@ -133,6 +136,36 @@ $(function(){
   });
   $("#bgred").click(function(){
     te.css("background-color","red");
+  });
+  $("#bgcrimson").click(function(){
+    te.css("background-color","crimson");
+  });
+  $("#bgblue").click(function(){
+    te.css("background-color","blue");
+  });
+  $("#bgdgblue").click(function(){
+    te.css("background-color","dodgerblue");
+  });
+  $("#bgdarkblue").click(function(){
+    te.css("background-color","darkblue");
+  });
+  $("#bgteal").click(function(){
+    te.css("background-color","teal");
+  });
+  $("#bgpurple").click(function(){
+    te.css("background-color","purple");
+  });
+  $("#bgmagenta").click(function(){
+    te.css("background-color","magenta");
+  });
+  $("#bgpink").click(function(){
+    te.css("background-color","pink");
+  });
+  $("#bghotpink").click(function(){
+    te.css("background-color","hotpink");
+  });
+  $("#bgdeeppink").click(function(){
+    te.css("background-color","deeppink");
   });
   var aaaa = $("te").val();
   $(document).ready(function(){
