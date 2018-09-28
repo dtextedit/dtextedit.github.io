@@ -86,7 +86,25 @@ button:hover {
   font-family: "Audiowide", cursive;
 }
 .font-aaaq {
-    font-family: "UnifrakturCook", cursive;
+  font-family: "UnifrakturCook", cursive;
+}
+.font-aaar {
+  font-family: "UnifrakturMaguntia", cursive;
+}
+.font-aaas {
+  font-family: "Underdog", cursive;
+}
+.font-aaat {
+  font-family: "EB Garamond", serif;
+}
+.font-aaau {
+  font-family: "Eagle Lake", cursive;
+}
+.font-aaav {
+  font-family: "Dynalight", cursive;
+}
+.font-aaaw {
+  font-family: "Goudy Bookletter 1911", serif;
 }
 #size11 {
   font-size: 11px;
@@ -166,4 +184,34 @@ button:hover {
 }
 #bgwhite {
   background-color: white;
+}
+#bgblue {
+  background-color: blue;
+}
+#bgdgblue {
+  background-color: dodgerblue;
+}
+#bgdarkblue {
+  background-color: darkblue;
+}
+#bgteal {
+  background-color: teal;
+}
+#bgpurple {
+  background-color: purple;
+}
+#bgmagenta {
+  background-color: magenta;
+}
+#bgpink {
+  background-color: pink;
+}
+#bghotpink {
+  background-color: hotpink;
+}
+#bgdeeppink {
+  background-color: deeppink;
+}
+#bgcrimson {
+  background-color: crimson;
 }
