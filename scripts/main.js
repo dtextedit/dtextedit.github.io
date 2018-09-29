@@ -185,7 +185,6 @@ $(function(){
   $("#bgdeeppink").click(function(){
     te.css("background-color","deeppink");
   });
-  var aaaa = $("te").val();
   $(document).ready(function(){
     $("#save").click(function(){
           var text1 = te.val();
